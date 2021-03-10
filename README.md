@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Entreprenurship to Employeement journey
 - 📫 How to reach me: santhoshnarendra@gmail.com
 - 😄 Pronouns: Him
-- ⚡ Fun fact: It took me months to find about this readme feature!
+- ⚡ My Favourite Quote: Belive in your inner thoughts and drive through it 
 
