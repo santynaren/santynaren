@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with AWS Advanced tips
 - 💬 Ask me about Entreprenurship to Employeement journey
 - 📫 How to reach me: santhoshnarendra@gmail.com
-- 😄 Pronouns: Him
-- ⚡ My Favourite Quote: Belive in your inner thoughts and drive through it 
+- 😄 Pronouns: Him 
 
