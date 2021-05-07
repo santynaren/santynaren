@@ -1,6 +1,5 @@
 # Hello World,
 
-
 <a href="https://linkedin.com/in/narensan/">
   <img align="left" alt="Narendra Santhosh N - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
@@ -13,8 +12,6 @@
 </a>
 <br />
 <br />
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React Apps Development
