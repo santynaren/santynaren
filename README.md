@@ -13,7 +13,6 @@
 <br />
 <br />
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on React Apps Development
 - 🌱 I’m currently learning to contribute in Open Source
 - 👯 I’m looking to collaborate on Javascript Libraries
