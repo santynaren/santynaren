@@ -14,6 +14,7 @@
 <br />
 Here are some ideas to get you started:
 
+- Software Engineer at Green man Gaming
 - 🔭 I’m currently working on React and React Native Apps Development
 - 🌱 I’m currently learning to contribute in Open Source
 - 👯 I’m looking to collaborate on Javascript Libraries
