@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Entreprenurship to Employeement journey
 - 📫 How to reach me: santhoshnarendra@gmail.com
 - 😄 Pronouns: Him 
-
